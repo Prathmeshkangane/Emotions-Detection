@@ -34,14 +34,21 @@ streamlit run app.py
 
 📌 Dependencies
 Python 3.8+
+
 TensorFlow 2.x
+
 Streamlit
+
 Librosa
+
 NumPy
+
 Soundfile
+
 Matplotlib
 
 Install all dependencies using:
+
 pip install -r requirements.txt
 
 💡 Future Enhancements
