@@ -25,14 +25,19 @@ This project focuses on detecting human emotions from speech signals using an LS
 ---
 
 ## 🛠️ Installation
+
 git clone https://github.com/Prathmesh0001761/Emotion-detections-updated.git
+
 cd Emotion-detections-updated
+
 pip install -r requirements.txt
 
 ▶️ Run the App
+
 streamlit run app.py
 
 📌 Dependencies
+
 Python 3.8+
 
 TensorFlow 2.x
@@ -52,6 +57,7 @@ Install all dependencies using:
 pip install -r requirements.txt
 
 💡 Future Enhancements
+
 🎯 Improve accuracy with attention mechanism
 
 🎙️ Add support for longer conversations
